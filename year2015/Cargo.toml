@@ -1,0 +1,24 @@
+[package]
+name = "year2015"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "day01"
+path = "day01/bin/main.rs"
+
+[[bin]]
+name = "day02"
+path = "day02/bin/main.rs"
+
+[[bin]]
+name = "day03"
+path = "day03/bin/main.rs"
+
+[[bin]]
+name = "day04"
+path = "day04/bin/main.rs"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
